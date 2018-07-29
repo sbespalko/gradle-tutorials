@@ -1,0 +1,7 @@
+.*
+!.gitignore
+
+build
+**/gradle/wrapper/
+gradlew
+gradlew.bat
